@@ -9,7 +9,7 @@ import (
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
 	Use:   "fir",
-	Short: "A cli for the Fir web framework",
+	Short: "A cli for the Fir web toolkit.",
 	Long:  ``,
 	// Uncomment the following line if your bare application
 	// has an action associated with it:
